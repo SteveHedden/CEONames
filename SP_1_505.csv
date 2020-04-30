@@ -1,0 +1,506 @@
+,Unnamed: 0,symbol,companyName,exchange,industry,website,CEO,sector
+0,0,MMM,3M Co.,New York Stock Exchange,Industrial Conglomerates,http://www.3m.com,Michael F. Roman,Producer Manufacturing
+1,1,ABT,Abbott Laboratories,New York Stock Exchange,Medical Specialties,http://www.abbott.com,Robert B. Ford,Health Technology
+2,2,ABBV,"AbbVie, Inc.",New York Stock Exchange,Pharmaceuticals: Major,http://www.abbvie.com,Richard A. Gonzalez,Health Technology
+3,3,ABMD,"ABIOMED, Inc.",NASDAQ,Medical Specialties,http://www.abiomed.com,Michael R. Minogue,Health Technology
+4,4,ACN,Accenture Plc,New York Stock Exchange,Information Technology Services,http://www.accenture.com,Julie Spellman Sweet,Technology Services
+5,5,ATVI,"Activision Blizzard, Inc.",NASDAQ,Recreational Products,http://www.activisionblizzard.com,Robert A. Kotick,Consumer Durables
+6,6,ADBE,"Adobe, Inc.",NASDAQ,Packaged Software,http://www.adobe.com,Shantanu Narayen,Technology Services
+7,7,AMD,"Advanced Micro Devices, Inc.",NASDAQ,Semiconductors,http://www.amd.com,Lisa T. Su,Electronic Technology
+8,8,AAP,"Advance Auto Parts, Inc.",New York Stock Exchange,Specialty Stores,http://www.advanceautoparts.com,Thomas R. Greco,Retail Trade
+9,9,AES,The AES Corp.,New York Stock Exchange,Electric Utilities,http://www.aes.com,Andrés Ricardo Gluski Weilert,Utilities
+10,10,AFL,"Aflac, Inc.",New York Stock Exchange,Life/Health Insurance,http://www.aflac.com,Daniel Paul Amos,Finance
+11,11,A,"Agilent Technologies, Inc.",New York Stock Exchange,Biotechnology,http://www.agilent.com,Michael R. McMullen,Health Technology
+12,12,APD,"Air Products & Chemicals, Inc.",New York Stock Exchange,Chemicals: Specialty,http://www.airproducts.com,Seifollah Ghasemi,Process Industries
+13,13,AKAM,"Akamai Technologies, Inc.",NASDAQ,Internet Software/Services,http://www.akamai.com,Frank Thomson Leighton,Technology Services
+14,14,ALK,"Alaska Air Group, Inc.",New York Stock Exchange,Airlines,http://www.alaskaair.com,Bradley D. Tilden,Transportation
+15,15,ALB,Albemarle Corp.,New York Stock Exchange,Chemicals: Specialty,http://www.albemarle.com,Luke C. Kissam,Process Industries
+16,16,ARE,"Alexandria Real Estate Equities, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.are.com,Peter M. Moglia / Stephen A. Richardson,Finance
+17,17,ALXN,"Alexion Pharmaceuticals, Inc.",NASDAQ,Biotechnology,http://www.alexion.com,Ludwig N. Hantson,Health Technology
+18,18,ALGN,"Align Technology, Inc.",NASDAQ,Medical Specialties,http://www.aligntech.com,Joseph M. Hogan,Health Technology
+19,19,ALLE,Allegion Plc,New York Stock Exchange,Building Products,http://www.allegion.com,David D. Petratis,Producer Manufacturing
+20,20,AGN,Allergan Plc,New York Stock Exchange,Pharmaceuticals: Generic,http://www.allergan.com,Brenton L. Saunders,Health Technology
+21,21,ADS,Alliance Data Systems Corp.,New York Stock Exchange,Data Processing Services,http://www.alliancedata.com,Ralph J Andretta,Technology Services
+22,22,LNT,Alliant Energy Corp.,NASDAQ,Electric Utilities,http://www.alliantenergy.com,John O. Larsen,Utilities
+23,23,ALL,The Allstate Corp.,New York Stock Exchange,Property/Casualty Insurance,http://www.allstate.com,Thomas Joseph Wilson,Finance
+24,24,GOOGL,"Alphabet, Inc.",NASDAQ,Internet Software/Services,http://abc.xyz,Sundar Pichai,Technology Services
+25,25,GOOG,"Alphabet, Inc.",NASDAQ,Internet Software/Services,http://abc.xyz,Sundar Pichai,Technology Services
+26,26,MO,"Altria Group, Inc.",New York Stock Exchange,Tobacco,http://www.altria.com,,Consumer Non-Durables
+27,27,AMZN,"Amazon.com, Inc.",NASDAQ,Internet Retail,http://www.amazon.com,Jeffrey P. Bezos,Retail Trade
+28,28,AMCR,Amcor Plc,New York Stock Exchange,Containers/Packaging,http://www.amcor.com,Ronald Stephen Delia,Process Industries
+29,29,AEE,Ameren Corp.,New York Stock Exchange,Electric Utilities,http://www.ameren.com,Warner L. Baxter,Utilities
+30,30,AAL,"American Airlines Group, Inc.",NASDAQ,Airlines,http://www.aa.com,William Douglas Parker,Transportation
+31,31,AEP,"American Electric Power Co., Inc.",New York Stock Exchange,Electric Utilities,http://www.aep.com,Nicholas K. Akins,Utilities
+32,32,AXP,American Express Co.,New York Stock Exchange,Financial Conglomerates,http://www.americanexpress.com,Stephen J. Squeri,Finance
+33,33,AIG,"American International Group, Inc.",New York Stock Exchange,Multi-Line Insurance,http://www.aig.com,Brian Duperreault,Finance
+34,34,T,"AT&T, Inc.",New York Stock Exchange,Major Telecommunications,http://www.att.com,Randall L. Stephenson,Communications
+35,35,AMT,American Tower Corp.,New York Stock Exchange,Real Estate Investment Trusts,http://www.americantower.com,Thomas A. Bartlett,Finance
+36,36,AWK,"American Water Works Co., Inc.",New York Stock Exchange,Water Utilities,http://www.amwater.com,Walter J. Lynch,Utilities
+37,37,AMP,"Ameriprise Financial, Inc.",New York Stock Exchange,Investment Banks/Brokers,http://www.ameriprise.com,James Michael Cracchiolo,Finance
+38,38,ABC,AmerisourceBergen Corp.,New York Stock Exchange,Medical Distributors,http://www.amerisourcebergen.com,Steven H. Collis,Distribution Services
+39,39,AME,"AMETEK, Inc.",New York Stock Exchange,Electrical Products,http://www.ametek.com,David A. Zapico,Producer Manufacturing
+40,40,AMGN,"Amgen, Inc.",NASDAQ,Biotechnology,http://www.amgen.com,Robert A. Bradway,Health Technology
+41,41,APH,Amphenol Corp.,New York Stock Exchange,Electronic Components,http://www.amphenol.com,Richard Adam Norwitt,Electronic Technology
+42,42,ADI,"Analog Devices, Inc.",NASDAQ,Semiconductors,http://www.analog.com,Vincent T. Roche,Electronic Technology
+43,43,ANSS,"ANSYS, Inc.",NASDAQ,Packaged Software,http://www.ansys.com,Ajei S. Gopal,Technology Services
+44,44,ANTM,"Anthem, Inc.",New York Stock Exchange,Managed Health Care,http://www.antheminc.com,Gail Koziara Boudreaux,Health Services
+45,45,AON,Aon Plc (Ireland),New York Stock Exchange,Insurance Brokers/Services,http://www.aon.com,,Finance
+46,46,AOS,A. O. Smith Corp.,New York Stock Exchange,Building Products,http://www.aosmith.com,Kevin J. Wheeler,Producer Manufacturing
+47,47,APA,Apache Corp.,New York Stock Exchange,Oil & Gas Production,http://www.apachecorp.com,John J. Christmann,Energy Minerals
+48,48,AIV,Apartment Investment & Management Co.,New York Stock Exchange,Real Estate Investment Trusts,http://www.aimco.com,Terry Considine,Finance
+49,49,AAPL,"Apple, Inc.",NASDAQ,Telecommunications Equipment,http://www.apple.com,Timothy Donald Cook,Electronic Technology
+0,0,AMAT,"Applied Materials, Inc.",NASDAQ,Industrial Machinery,http://www.appliedmaterials.com,Gary E. Dickerson,Producer Manufacturing
+1,1,APTV,Aptiv Plc,New York Stock Exchange,Auto Parts: OEM,http://www.aptiv.com,Kevin P. Clark,Producer Manufacturing
+2,2,ADM,Archer-Daniels-Midland Co.,New York Stock Exchange,Agricultural Commodities/Milling,http://www.adm.com,Juan Ricardo Luciano,Process Industries
+3,3,ARNC,Arconic Corp.,New York Stock Exchange,Aluminum,http://www.arconic.com,Timothy Donald Myers,Non-Energy Minerals
+4,4,ANET,"Arista Networks, Inc.",New York Stock Exchange,Computer Communications,http://www.arista.com,Jayshree V. Ullal,Electronic Technology
+5,5,AJG,Arthur J. Gallagher & Co.,New York Stock Exchange,Insurance Brokers/Services,http://ajg.com,Patrick J. Gallagher,Finance
+6,6,AIZ,"Assurant, Inc.",New York Stock Exchange,Multi-Line Insurance,http://www.assurant.com,Alan B. Colberg,Finance
+7,7,ATO,Atmos Energy Corp.,New York Stock Exchange,Gas Distributors,http://www.atmosenergy.com,J. Kevin Akers,Utilities
+8,8,ADSK,"Autodesk, Inc.",NASDAQ,Packaged Software,http://www.autodesk.com,Andrew Anagnost,Technology Services
+9,9,ADP,"Automatic Data Processing, Inc.",NASDAQ,Data Processing Services,http://www.adp.com,Carlos A. Rodriguez,Technology Services
+10,10,AZO,"AutoZone, Inc.",New York Stock Exchange,Specialty Stores,http://www.autozone.com,William C. Rhodes,Retail Trade
+11,11,AVB,"AvalonBay Communities, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.avaloncommunities.com,Timothy J. Naughton,Finance
+12,12,AVY,Avery Dennison Corp.,New York Stock Exchange,Containers/Packaging,http://www.averydennison.com,Mitchell R. Butier,Process Industries
+13,13,BKR,Baker Hughes Co.,New York Stock Exchange,Oilfield Services/Equipment,http://www.bhge.com,Lorenzo Simonelli,Industrial Services
+14,14,BLL,Ball Corp.,New York Stock Exchange,Containers/Packaging,http://www.ball.com,John Arthur Hayes,Process Industries
+15,15,BAC,Bank of America Corp.,New York Stock Exchange,Major Banks,http://www.bankofamerica.com,Brian T. Moynihan,Finance
+16,16,BK,The Bank of New York Mellon Corp.,New York Stock Exchange,Major Banks,http://bnymellon.com,Thomas P. Gibbons,Finance
+17,17,BAX,"Baxter International, Inc.",New York Stock Exchange,Medical Specialties,http://www.baxter.com,José E. Almeida,Health Technology
+18,18,BDX,"Becton, Dickinson & Co.",New York Stock Exchange,Medical Specialties,http://www.bd.com,Thomas E. Polen,Health Technology
+19,19,BRK.B,"Berkshire Hathaway, Inc.",New York Stock Exchange,Multi-Line Insurance,http://www.berkshirehathaway.com,Warren Edward Buffett,Finance
+20,20,BBY,"Best Buy Co., Inc.",New York Stock Exchange,Electronics/Appliance Stores,http://www.bestbuy.com,Corie Sue Barry,Retail Trade
+21,21,BIIB,"Biogen, Inc.",NASDAQ,Biotechnology,http://www.biogen.com,Michel Vounatsos,Health Technology
+22,22,BLK,"BlackRock, Inc.",New York Stock Exchange,Investment Managers,http://www.blackrock.com,Laurence Douglas Fink,Finance
+23,23,BA,The Boeing Co.,New York Stock Exchange,Aerospace & Defense,http://www.boeing.com,David L. Calhoun,Electronic Technology
+24,24,BKNG,"Booking Holdings, Inc.",NASDAQ,Other Consumer Services,http://www.bookingholdings.com,Glenn D. Fogel,Consumer Services
+25,25,BWA,"BorgWarner, Inc.",New York Stock Exchange,Auto Parts: OEM,http://www.borgwarner.com,Frederic B. Lissalde,Producer Manufacturing
+26,26,BXP,"Boston Properties, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.bostonproperties.com,Owen D. Thomas,Finance
+27,27,BSX,Boston Scientific Corp.,New York Stock Exchange,Medical Specialties,http://www.bostonscientific.com,Michael F. Mahoney,Health Technology
+28,28,BMY,Bristol-Myers Squibb Co.,New York Stock Exchange,Pharmaceuticals: Major,http://www.bms.com,Giovanni Caforio,Health Technology
+29,29,AVGO,"Broadcom, Inc.",NASDAQ,Semiconductors,http://www.broadcom.com,Hock E. Tan,Electronic Technology
+30,30,BR,"Broadridge Financial Solutions, Inc.",New York Stock Exchange,Miscellaneous Commercial Services,http://www.broadridge.com,Timothy C. Gokey,Commercial Services
+31,31,BF.B,Brown-Forman Corp.,New York Stock Exchange,Beverages: Alcoholic,http://www.brown-forman.com,Lawson E. Whiting,Consumer Non-Durables
+32,32,CHRW,"C.H. Robinson Worldwide, Inc.",NASDAQ,Air Freight/Couriers,http://www.chrobinson.com,Robert C. Biesterfeld,Transportation
+33,33,COG,Cabot Oil & Gas Corp.,New York Stock Exchange,Integrated Oil,http://www.cabotog.com,Dan O. Dinges,Energy Minerals
+34,34,CDNS,"Cadence Design Systems, Inc.",NASDAQ,Packaged Software,http://www.cadence.com,Lip Bu Tan,Technology Services
+35,35,CPB,Campbell Soup Co.,New York Stock Exchange,Food: Major Diversified,http://www.campbellsoupcompany.com,Mark A. Clouse,Consumer Non-Durables
+36,36,COF,Capital One Financial Corp.,New York Stock Exchange,Major Banks,http://www.capitalone.com,Richard D. Fairbank,Finance
+37,37,CPRI,Capri Holdings Ltd.,New York Stock Exchange,Apparel/Footwear Retail,http://michaelkors.com,John D. Idol,Retail Trade
+38,38,CAH,"Cardinal Health, Inc.",New York Stock Exchange,Medical Distributors,http://www.cardinalhealth.com,Michael C. Kaufmann,Distribution Services
+39,39,KMX,"CarMax, Inc.",New York Stock Exchange,Specialty Stores,http://www.carmax.com,William D. Nash,Retail Trade
+40,40,CCL,Carnival Corp.,New York Stock Exchange,Hotels/Resorts/Cruiselines,http://www.carnivalcorp.com,Arnold W. Donald,Consumer Services
+41,41,CAT,"Caterpillar, Inc.",New York Stock Exchange,Trucks/Construction/Farm Machinery,http://www.caterpillar.com,Donald James Umpleby,Producer Manufacturing
+42,42,CBOE,"Cboe Global Markets, Inc.",Cboe BZX US Equities Exchange,Investment Banks/Brokers,http://www.cboe.com,Edward T. Tilly,Finance
+43,43,CBRE,"CBRE Group, Inc.",New York Stock Exchange,Real Estate Development,http://www.cbre.com,Robert E. Sulentic,Finance
+44,44,CDW,CDW Corp.,NASDAQ,Information Technology Services,http://www.cdw.com,Christine A. Leahy,Technology Services
+45,45,CE,Celanese Corp.,New York Stock Exchange,Chemicals: Major Diversified,http://www.celanese.com,Lori J. Ryerkerk,Process Industries
+46,46,CNC,Centene Corp.,New York Stock Exchange,Managed Health Care,http://www.centene.com,Michael F. Neidorff,Health Services
+47,47,CNP,"CenterPoint Energy, Inc.",New York Stock Exchange,Electric Utilities,http://www.centerpointenergy.com,John W. Somerhalder,Utilities
+48,48,CTL,"CenturyLink, Inc.",New York Stock Exchange,Specialty Telecommunications,http://www.centurylink.com,Jeffrey K. Storey,Communications
+49,49,CERN,Cerner Corp.,NASDAQ,Information Technology Services,http://www.cerner.com,Brent Shafer,Technology Services
+0,0,CF,"CF Industries Holdings, Inc.",New York Stock Exchange,Chemicals: Agricultural,http://www.cfindustries.com,W. Anthony Will,Process Industries
+1,1,SCHW,The Charles Schwab Corp.,New York Stock Exchange,Investment Banks/Brokers,http://www.aboutschwab.com,Walter William Bettinger,Finance
+2,2,CHTR,"Charter Communications, Inc.",NASDAQ,Cable/Satellite TV,http://www.charter.com,Thomas M. Rutledge,Consumer Services
+3,3,CVX,Chevron Corp.,New York Stock Exchange,Integrated Oil,http://www.chevron.com,Michael K. Wirth,Energy Minerals
+4,4,CMG,"Chipotle Mexican Grill, Inc.",New York Stock Exchange,Restaurants,http://www.chipotle.com,Brian R. Niccol,Consumer Services
+5,5,CB,Chubb Ltd.,New York Stock Exchange,Property/Casualty Insurance,http://www.chubb.com,Evan G. Greenberg,Finance
+6,6,CHD,"Church & Dwight Co., Inc.",New York Stock Exchange,Household/Personal Care,http://www.churchdwight.com,Matthew Thomas Farrell,Consumer Non-Durables
+7,7,CI,Cigna Corp.,New York Stock Exchange,Managed Health Care,http://www.cigna.com,David Michael Cordani,Health Services
+8,8,CINF,Cincinnati Financial Corp.,NASDAQ,Property/Casualty Insurance,http://www.cinfin.com,Steven J. Johnston,Finance
+9,9,CTAS,Cintas Corp.,NASDAQ,Other Consumer Services,http://www.cintas.com,Scott Douglas Farmer,Consumer Services
+10,10,CSCO,"Cisco Systems, Inc.",NASDAQ,Information Technology Services,http://www.cisco.com,Charles H. Robbins,Technology Services
+11,11,C,"Citigroup, Inc.",New York Stock Exchange,Financial Conglomerates,http://www.citigroup.com,Michael Louis Corbat,Finance
+12,12,CFG,"Citizens Financial Group, Inc. (Rhode Island)",New York Stock Exchange,Regional Banks,http://www.citizensbank.com,Bruce Winfield van Saun,Finance
+13,13,CTXS,"Citrix Systems, Inc.",NASDAQ,Packaged Software,http://www.citrix.com,David James Henshall,Technology Services
+14,14,CLX,The Clorox Co.,New York Stock Exchange,Household/Personal Care,http://www.thecloroxcompany.com,Benno O. Dorer,Consumer Non-Durables
+15,15,CME,"CME Group, Inc.",NASDAQ,Investment Banks/Brokers,http://www.cmegroup.com,Terrence A. Duffy,Finance
+16,16,CMS,CMS Energy Corp.,New York Stock Exchange,Electric Utilities,http://www.cmsenergy.com,Patricia K. Poppe,Utilities
+17,17,KO,The Coca-Cola Co.,New York Stock Exchange,Beverages: Non-Alcoholic,http://www.coca-colacompany.com,James Quincey,Consumer Non-Durables
+18,18,CTSH,Cognizant Technology Solutions Corp.,NASDAQ,Information Technology Services,http://www.cognizant.com,Brian J. Humphries,Technology Services
+19,19,CL,Colgate-Palmolive Co.,New York Stock Exchange,Household/Personal Care,http://www.colgatepalmolive.com,Noel R. Wallace,Consumer Non-Durables
+20,20,CMCSA,Comcast Corp.,NASDAQ,Cable/Satellite TV,http://corporate.comcast.com,Brian L. Roberts,Consumer Services
+21,21,CMA,"Comerica, Inc.",New York Stock Exchange,Major Banks,http://www.comerica.com,Curtis Chatman Farmer,Finance
+22,22,CAG,"Conagra Brands, Inc.",New York Stock Exchange,Food: Major Diversified,http://www.conagrabrands.com,Sean M. Connolly,Consumer Non-Durables
+23,23,CXO,"Concho Resources, Inc.",New York Stock Exchange,Oil & Gas Production,http://www.concho.com,Timothy A. Leach,Energy Minerals
+24,24,COP,ConocoPhillips,New York Stock Exchange,Oil & Gas Production,http://www.conocophillips.com,Ryan M. Lance,Energy Minerals
+25,25,ED,"Consolidated Edison, Inc.",New York Stock Exchange,Electric Utilities,http://www.conedison.com,John J. McAvoy,Utilities
+26,26,STZ,"Constellation Brands, Inc.",New York Stock Exchange,Beverages: Alcoholic,http://www.cbrands.com,William A. Newlands,Consumer Non-Durables
+27,27,COO,"The Cooper Cos., Inc.",New York Stock Exchange,Medical Specialties,http://www.coopercos.com,Albert George White,Health Technology
+28,28,CPRT,"Copart, Inc.",NASDAQ,Miscellaneous Commercial Services,http://www.copart.com,Aaron Jayson Adair,Commercial Services
+29,29,GLW,"Corning, Inc.",New York Stock Exchange,Electronic Components,http://www.corning.com,Wendell P. Weeks,Electronic Technology
+30,30,CTVA,"Corteva, Inc.",New York Stock Exchange,Chemicals: Agricultural,http://www.corteva.com,James C. Collins,Process Industries
+31,31,COST,Costco Wholesale Corp.,NASDAQ,Specialty Stores,http://www.costco.com,Walter Craig Jelinek,Retail Trade
+32,32,COTY,"Coty, Inc.",New York Stock Exchange,Household/Personal Care,http://www.coty.com,Pierre Laubies,Consumer Non-Durables
+33,33,CCI,Crown Castle International Corp.,New York Stock Exchange,Real Estate Investment Trusts,http://www.crowncastle.com,Jay A. Brown,Finance
+34,34,CSX,CSX Corp.,NASDAQ,Railroads,http://www.csx.com,James M. Foote,Transportation
+35,35,CMI,"Cummins, Inc.",New York Stock Exchange,Trucks/Construction/Farm Machinery,http://www.cummins.com,Norman Thomas Linebarger,Producer Manufacturing
+36,36,CVS,CVS Health Corp.,New York Stock Exchange,Drugstore Chains,http://www.cvshealth.com,Larry J. Merlo,Retail Trade
+37,37,DHI,"D.R. Horton, Inc.",New York Stock Exchange,Homebuilding,http://www.drhorton.com,David V. Auld,Consumer Durables
+38,38,DHR,Danaher Corp.,New York Stock Exchange,Medical Specialties,http://www.danaher.com,Thomas Patrick Joyce,Health Technology
+39,39,DRI,"Darden Restaurants, Inc.",New York Stock Exchange,Restaurants,http://www.darden.com,Eugene I. Lee,Consumer Services
+40,40,DVA,"DaVita, Inc.",New York Stock Exchange,Medical/Nursing Services,http://www.davita.com,Javier J. Rodriguez,Health Services
+41,41,DE,Deere & Co.,New York Stock Exchange,Trucks/Construction/Farm Machinery,http://www.deere.com,John C. May,Producer Manufacturing
+42,42,DAL,"Delta Air Lines, Inc.",New York Stock Exchange,Airlines,http://www.delta.com,Edward Herman Bastian,Transportation
+43,43,XRAY,"Dentsply Sirona, Inc.",NASDAQ,Medical Specialties,http://www.dentsplysirona.com,Don M. Casey,Health Technology
+44,44,DVN,Devon Energy Corp.,New York Stock Exchange,Oil & Gas Production,http://www.devonenergy.com,David A. Hager,Energy Minerals
+45,45,FANG,"Diamondback Energy, Inc.",NASDAQ,Oil & Gas Production,http://www.diamondbackenergy.com,Travis D. Stice,Energy Minerals
+46,46,DLR,"Digital Realty Trust, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.digitalrealty.com,Arthur William Stein,Finance
+47,47,DFS,Discover Financial Services,New York Stock Exchange,Regional Banks,http://www.discoverfinancial.com,Roger C. Hochschild,Finance
+48,48,DISCA,"Discovery, Inc.",NASDAQ,Cable/Satellite TV,http://corporate.discovery.com,David M. Zaslav,Consumer Services
+49,49,DISCK,"Discovery, Inc.",NASDAQ,Cable/Satellite TV,http://corporate.discovery.com,David M. Zaslav,Consumer Services
+0,0,DISH,DISH Network Corp.,NASDAQ,Cable/Satellite TV,http://www.dish.com,W. Erik Carlson,Consumer Services
+1,1,DG,Dollar General Corp.,New York Stock Exchange,Discount Stores,http://www.dollargeneral.com,Todd J. Vasos,Retail Trade
+2,2,DLTR,"Dollar Tree, Inc.",NASDAQ,Discount Stores,http://www.dollartreeinfo.com,Gary M. Philbin,Retail Trade
+3,3,D,"Dominion Energy, Inc.",New York Stock Exchange,Electric Utilities,http://www.dominionenergy.com,Thomas F. Farrell,Utilities
+4,4,DOV,Dover Corp.,New York Stock Exchange,Oilfield Services/Equipment,http://www.dovercorporation.com,Richard Joseph Tobin,Industrial Services
+5,5,DOW,"Dow, Inc.",New York Stock Exchange,Chemicals: Specialty,http://www.dow.com,James R. Fitterling,Process Industries
+6,6,DTE,DTE Energy Co.,New York Stock Exchange,Electric Utilities,http://www.dteenergy.com,Gerardo Norcia,Utilities
+7,7,DUK,Duke Energy Corp.,New York Stock Exchange,Electric Utilities,http://www.duke-energy.com,Lynn J. Good,Utilities
+8,8,DRE,Duke Realty Corp.,New York Stock Exchange,Real Estate Investment Trusts,http://www.dukerealty.com,James B. Connor,Finance
+9,9,DD,"DuPont de Nemours, Inc.",New York Stock Exchange,Chemicals: Major Diversified,http://www.dupont.com,Edward D. Breen,Process Industries
+10,10,DXC,DXC Technology Co.,New York Stock Exchange,Data Processing Services,http://www.dxc.technology,Michael J. Salvino,Technology Services
+11,11,ETFC,E*TRADE Financial Corp.,NASDAQ,Investment Banks/Brokers,http://www.etrade.com,Michael A. Pizzi,Finance
+12,12,EMN,Eastman Chemical Co.,New York Stock Exchange,Chemicals: Major Diversified,http://www.eastman.com,Mark J. Costa,Process Industries
+13,13,ETN,Eaton Corp. Plc,New York Stock Exchange,Electrical Products,http://www.eaton.com,Craig Arnold,Producer Manufacturing
+14,14,EBAY,"eBay, Inc.",NASDAQ,Other Consumer Services,http://www.ebayinc.com,Scott F. Schenkel,Consumer Services
+15,15,ECL,"Ecolab, Inc.",New York Stock Exchange,Chemicals: Specialty,http://www.ecolab.com,Douglas M. Baker,Process Industries
+16,16,EIX,Edison International,New York Stock Exchange,Electric Utilities,http://www.edison.com,Pedro J. Pizarro,Utilities
+17,17,EW,Edwards Lifesciences Corp.,New York Stock Exchange,Medical Specialties,http://www.edwards.com,Michael A. Mussallem,Health Technology
+18,18,EA,"Electronic Arts, Inc.",NASDAQ,Recreational Products,http://www.ea.com,Andrew P. Wilson,Consumer Durables
+19,19,EMR,Emerson Electric Co.,New York Stock Exchange,Electrical Products,http://www.emerson.com,David N. Farr,Producer Manufacturing
+20,20,ETR,Entergy Corp.,New York Stock Exchange,Electric Utilities,http://www.entergy.com,Leo P. Denault,Utilities
+21,21,EOG,"EOG Resources, Inc.",New York Stock Exchange,Oil & Gas Production,http://www.eogresources.com,William Raymond Thomas,Energy Minerals
+22,22,EFX,"Equifax, Inc.",New York Stock Exchange,Miscellaneous Commercial Services,http://www.equifax.com,Mark W. Begor,Commercial Services
+23,23,EQIX,"Equinix, Inc.",NASDAQ,Real Estate Investment Trusts,http://www.equinix.com,Charles J. Meyers,Finance
+24,24,EQR,Equity Residential,New York Stock Exchange,Real Estate Investment Trusts,http://www.equityapartments.com,Mark J. Parrell,Finance
+25,25,ESS,"Essex Property Trust, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.essex.com,Michael J. Schall,Finance
+26,26,EL,"The Estée Lauder Companies, Inc.",New York Stock Exchange,Household/Personal Care,http://www.elcompanies.com,Fabrizio Freda,Consumer Non-Durables
+27,27,EVRG,"Evergy, Inc.",New York Stock Exchange,Electric Utilities,http://www.evergyinc.com,Terry D. Bassham,Utilities
+28,28,ES,Eversource Energy,New York Stock Exchange,Electric Utilities,http://www.eversource.com,James J. Judge,Utilities
+29,29,RE,Everest Re Group Ltd.,New York Stock Exchange,Property/Casualty Insurance,http://www.everestre.com,Juan C. Andrade,Finance
+30,30,EXC,Exelon Corp.,NASDAQ,Electric Utilities,http://www.exeloncorp.com,Christopher M. Crane,Utilities
+31,31,EXPE,"Expedia Group, Inc.",NASDAQ,Other Consumer Services,http://www.expediagroup.com,,Consumer Services
+32,32,EXPD,"Expeditors International of Washington, Inc.",NASDAQ,Air Freight/Couriers,http://www.expeditors.com,Jeffrey S. Musser,Transportation
+33,33,EXR,"Extra Space Storage, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.extraspace.com,Joseph D. Margolis,Finance
+34,34,XOM,Exxon Mobil Corp.,New York Stock Exchange,Integrated Oil,http://www.exxonmobil.com,Darren W. Woods,Energy Minerals
+35,35,FFIV,"F5 Networks, Inc.",NASDAQ,Computer Communications,http://www.f5.com,François Locoh-Donou,Electronic Technology
+36,36,FB,"Facebook, Inc.",NASDAQ,Internet Software/Services,http://www.facebook.com,Mark Elliot Zuckerberg,Technology Services
+37,37,FAST,Fastenal Co.,NASDAQ,Wholesale Distributors,http://www.fastenal.com,Daniel Lars Florness,Distribution Services
+38,38,FRT,Federal Realty Investment Trust,New York Stock Exchange,Real Estate Investment Trusts,http://www.federalrealty.com,Donald C. Wood,Finance
+39,39,FDX,FedEx Corp.,New York Stock Exchange,Air Freight/Couriers,http://www.fedex.com,Frederick Wallace Smith,Transportation
+40,40,FIS,"Fidelity National Information Services, Inc.",New York Stock Exchange,Data Processing Services,http://www.fisglobal.com,Gary A. Norcross,Technology Services
+41,41,FITB,Fifth Third Bancorp,NASDAQ,Regional Banks,http://www.53.com,Gregory D. Carmichael,Finance
+42,42,FE,FirstEnergy Corp.,New York Stock Exchange,Electric Utilities,http://www.firstenergycorp.com,Charles E. Jones,Utilities
+43,43,FRC,"First Republic Bank (San Francisco, California)",New York Stock Exchange,Regional Banks,http://www.firstrepublic.com,James H. Herbert,Finance
+44,44,FISV,"Fiserv, Inc.",NASDAQ,Data Processing Services,http://www.fiserv.com,Jeffery W. Yabuki,Technology Services
+45,45,FLT,"FleetCor Technologies, Inc.",New York Stock Exchange,Miscellaneous Commercial Services,http://www.fleetcor.com,Ronald F. Clarke,Commercial Services
+46,46,FLIR,"FLIR Systems, Inc.",NASDAQ,Aerospace & Defense,http://www.flir.com,James J. Cannon,Electronic Technology
+47,47,FLS,Flowserve Corp.,New York Stock Exchange,Industrial Machinery,http://www.flowserve.com,Robert Scott Rowe,Producer Manufacturing
+48,48,FMC,FMC Corp.,New York Stock Exchange,Chemicals: Agricultural,http://www.fmc.com,Pierre R. Brondeau / Mark A. Douglas,Process Industries
+49,49,F,Ford Motor Co.,New York Stock Exchange,Motor Vehicles,http://www.ford.com,James P. Hackett,Consumer Durables
+50,50,FTNT,"Fortinet, Inc.",NASDAQ,Computer Communications,http://www.fortinet.com,Ken Xie,Electronic Technology
+51,51,FTV,Fortive Corp.,New York Stock Exchange,Electronic Equipment/Instruments,http://www.fortive.com,James A. Lico,Electronic Technology
+52,52,FBHS,"Fortune Brands Home & Security, Inc.",New York Stock Exchange,Building Products,http://www.fbhs.com,Nicholas I. Fink,Producer Manufacturing
+53,53,FOXA,Fox Corp.,NASDAQ,Broadcasting,http://www.foxcorporation.com,Lachlan Keith Murdoch,Consumer Services
+54,54,FOX,Fox Corp.,NASDAQ,Broadcasting,http://www.foxcorporation.com,Lachlan Keith Murdoch,Consumer Services
+55,55,BEN,"Franklin Resources, Inc.",New York Stock Exchange,Investment Managers,http://www.franklinresources.com,Jennifer M. Johnson,Finance
+56,56,FCX,"Freeport-McMoRan, Inc.",New York Stock Exchange,Other Metals/Minerals,http://www.fcx.com,Richard C. Adkerson,Non-Energy Minerals
+57,57,GPS,"Gap, Inc.",New York Stock Exchange,Apparel/Footwear Retail,http://www.gapinc.com,Sonia Syngal,Retail Trade
+58,58,GRMN,Garmin Ltd.,NASDAQ,Telecommunications Equipment,http://www.garmin.com,Clifton Albert Pemble,Electronic Technology
+59,59,IT,"Gartner, Inc.",New York Stock Exchange,Miscellaneous Commercial Services,http://www.gartner.com,Eugene A. Hall,Commercial Services
+60,60,GD,General Dynamics Corp.,New York Stock Exchange,Aerospace & Defense,http://www.generaldynamics.com,Phebe N. Novakovic,Electronic Technology
+61,61,GE,General Electric Co.,New York Stock Exchange,Aerospace & Defense,http://www.ge.com,H. Lawrence Culp,Electronic Technology
+62,62,GIS,"General Mills, Inc.",New York Stock Exchange,Food: Major Diversified,http://www.generalmills.com,Jeffrey L. Harmening,Consumer Non-Durables
+63,63,GM,General Motors Co.,New York Stock Exchange,Motor Vehicles,http://www.gm.com,Mary Teresa Barra,Consumer Durables
+64,64,GPC,Genuine Parts Co.,New York Stock Exchange,Wholesale Distributors,http://www.genpt.com,Paul D. Donahue,Distribution Services
+65,65,GILD,"Gilead Sciences, Inc.",NASDAQ,Biotechnology,http://www.gilead.com,Daniel P. O'Day,Health Technology
+66,66,GL,"Globe Life, Inc.",New York Stock Exchange,Life/Health Insurance,http://www.globelifeinsurance.com,Gary L. Coleman / Larry M. Hutchison,Finance
+67,67,GPN,"Global Payments, Inc.",New York Stock Exchange,Data Processing Services,http://www.globalpaymentsinc.com,Jeffrey Steven Sloan,Technology Services
+68,68,GS,"The Goldman Sachs Group, Inc.",New York Stock Exchange,Investment Banks/Brokers,http://www.goldmansachs.com,David Michael Solomon,Finance
+69,69,GWW,"W.W. Grainger, Inc.",New York Stock Exchange,Wholesale Distributors,http://www.grainger.com,Donald G. Macpherson,Distribution Services
+70,70,HRB,"H&R Block, Inc.",New York Stock Exchange,Other Consumer Services,http://www.hrblock.com,Jeffrey J. Jones,Consumer Services
+71,71,HAL,Halliburton Co.,New York Stock Exchange,Oilfield Services/Equipment,http://www.halliburton.com,Jeffrey Allen Miller,Industrial Services
+72,72,HBI,"Hanesbrands, Inc.",New York Stock Exchange,Apparel/Footwear,http://www.hanes.com/corporate,Gerald W. Evans,Consumer Non-Durables
+73,73,HOG,"Harley-Davidson, Inc.",New York Stock Exchange,Motor Vehicles,http://www.harley-davidson.com,Jochen Zeitz,Consumer Durables
+74,74,HIG,"The Hartford Financial Services Group, Inc.",New York Stock Exchange,Multi-Line Insurance,http://www.thehartford.com,Christopher J. Swift,Finance
+75,75,HAS,"Hasbro, Inc.",NASDAQ,Recreational Products,http://www.hasbro.com/en_us/,Brian D. Goldner,Consumer Durables
+76,76,HCA,"HCA Healthcare, Inc.",New York Stock Exchange,Hospital/Nursing Management,http://www.hcahealthcare.com,Samuel N. Hazen,Health Services
+77,77,PEAK,"Healthpeak Properties, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.healthpeak.com,Thomas M. Herzog,Finance
+78,78,HP,"Helmerich & Payne, Inc.",New York Stock Exchange,Contract Drilling,http://www.hpinc.com,John W. Lindsay,Industrial Services
+79,79,HSIC,"Henry Schein, Inc.",NASDAQ,Medical Distributors,http://www.henryschein.com,Stanley M. Bergman,Distribution Services
+80,80,HSY,The Hershey Co.,New York Stock Exchange,Food: Specialty/Candy,http://www.thehersheycompany.com,Michele G. Buck,Consumer Non-Durables
+81,81,HES,Hess Corp.,New York Stock Exchange,Oil & Gas Production,http://www.hess.com,John B. Hess,Energy Minerals
+82,82,HPE,Hewlett-Packard Enterprise Co.,New York Stock Exchange,Computer Processing Hardware,http://www.hpe.com,Antonio Fabio Neri,Electronic Technology
+83,83,HLT,"Hilton Worldwide Holdings, Inc.",New York Stock Exchange,Hotels/Resorts/Cruiselines,http://www.hiltonworldwide.com,Christopher J. Nassetta,Consumer Services
+84,84,HFC,HollyFrontier Corp.,New York Stock Exchange,Oil Refining/Marketing,http://www.hollyfrontier.com,Michael C. Jennings,Energy Minerals
+85,85,HOLX,"Hologic, Inc.",NASDAQ,Medical Specialties,http://www.hologic.com,Stephen P. MacMillan,Health Technology
+86,86,HD,"The Home Depot, Inc.",New York Stock Exchange,Home Improvement Chains,http://www.homedepot.com,Craig A. Menear,Retail Trade
+87,87,HON,"Honeywell International, Inc.",New York Stock Exchange,Industrial Conglomerates,http://www.honeywell.com,Darius Adamczyk,Producer Manufacturing
+88,88,HRL,Hormel Foods Corp.,New York Stock Exchange,Food: Meat/Fish/Dairy,http://www.hormelfoods.com,James P. Snee,Consumer Non-Durables
+89,89,HST,"Host Hotels & Resorts, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.hosthotels.com,James F. Risoleo,Finance
+90,90,HWM,"Howmet Aerospace, Inc.",New York Stock Exchange,Aluminum,http://www.howmet.com,John C. Plant,Non-Energy Minerals
+91,91,HPQ,"HP, Inc.",New York Stock Exchange,Computer Processing Hardware,http://www.hp.com,Enrique Lores,Electronic Technology
+92,92,HUM,"Humana, Inc.",New York Stock Exchange,Managed Health Care,http://www.humana.com,Bruce Dale Broussard,Health Services
+93,93,HBAN,"Huntington Bancshares, Inc.",NASDAQ,Regional Banks,http://www.huntington.com,Stephen D. Steinour,Finance
+94,94,HII,"Huntington Ingalls Industries, Inc.",New York Stock Exchange,Aerospace & Defense,http://www.huntingtoningalls.com,C. Michael Petters,Electronic Technology
+95,95,IEX,IDEX Corp.,New York Stock Exchange,Industrial Machinery,http://www.idexcorp.com,Andrew K. Silvernail,Producer Manufacturing
+96,96,IDXX,"IDEXX Laboratories, Inc.",NASDAQ,Medical Specialties,http://www.idexx.com,Jonathan J. Mazelsky,Health Technology
+97,97,INFO,IHS Markit Ltd.,New York Stock Exchange,Investment Managers,http://www.ihsmarkit.com,Lance Darrell Gordon Uggla,Finance
+98,98,ITW,"Illinois Tool Works, Inc.",New York Stock Exchange,Industrial Machinery,http://www.itw.com,Ernest Scott Santi,Producer Manufacturing
+99,99,ILMN,"Illumina, Inc.",NASDAQ,Biotechnology,http://www.illumina.com,Francis A. deSouza,Health Technology
+0,0,INCY,Incyte Corp.,NASDAQ,Biotechnology,http://www.incyte.com,Hervé Hoppenot,Health Technology
+1,1,IR,"Ingersoll Rand, Inc.",New York Stock Exchange,Industrial Machinery,http://www.irco.com,Vicente Reynal,Producer Manufacturing
+2,2,INTC,Intel Corp.,NASDAQ,Semiconductors,http://www.intel.com,Robert Holmes Swan,Electronic Technology
+3,3,ICE,"Intercontinental Exchange, Inc.",New York Stock Exchange,Investment Banks/Brokers,http://www.intercontinentalexchange.com,Jeffrey Craig Sprecher,Finance
+4,4,IBM,International Business Machines Corp.,New York Stock Exchange,Information Technology Services,http://www.ibm.com,Virginia M. Rometty,Technology Services
+5,5,IP,International Paper Co.,New York Stock Exchange,Containers/Packaging,http://www.internationalpaper.com,Mark S. Sutton,Process Industries
+6,6,IPG,"Interpublic Group of Cos., Inc.",New York Stock Exchange,Advertising/Marketing Services,http://www.interpublic.com,Michael Isor Roth,Commercial Services
+7,7,IFF,"International Flavors & Fragrances, Inc.",New York Stock Exchange,Household/Personal Care,http://www.iff.com,Andreas Fibig,Consumer Non-Durables
+8,8,INTU,"Intuit, Inc.",NASDAQ,Packaged Software,http://www.intuit.com,Sasan K. Goodarzi,Technology Services
+9,9,ISRG,"Intuitive Surgical, Inc.",NASDAQ,Medical Specialties,http://www.intuitive.com,Gary S. Guthart,Health Technology
+10,10,IVZ,Invesco Ltd.,New York Stock Exchange,Investment Managers,http://www.invesco.com,Martin L. Flanagan,Finance
+11,11,IPGP,IPG Photonics Corp.,NASDAQ,Semiconductors,http://www.ipgphotonics.com,Valentin Pavlovich Gapontsev,Electronic Technology
+12,12,IQV,"IQVIA Holdings, Inc.",New York Stock Exchange,Services to the Health Industry,http://www.iqvia.com,Ari Bousbib,Health Services
+13,13,IRM,"Iron Mountain, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.ironmountain.com,William Leo Meaney,Finance
+14,14,JKHY,"Jack Henry & Associates, Inc.",NASDAQ,Information Technology Services,http://www.jackhenry.com,David B. Foss,Technology Services
+15,15,J,"Jacobs Engineering Group, Inc.",New York Stock Exchange,Engineering & Construction,http://www.jacobs.com,Steven J. Demetriou,Industrial Services
+16,16,JBHT,"J.B. Hunt Transport Services, Inc.",NASDAQ,Trucking,http://www.jbhunt.com,John N. Roberts,Transportation
+17,17,SJM,The J. M. Smucker Co.,New York Stock Exchange,Food: Specialty/Candy,http://www.jmsmucker.com,Mark T. Smucker,Consumer Non-Durables
+18,18,JNJ,Johnson & Johnson,New York Stock Exchange,Pharmaceuticals: Major,http://www.jnj.com,Alex Gorsky,Health Technology
+19,19,JCI,Johnson Controls International Plc,New York Stock Exchange,Office Equipment/Supplies,http://www.johnsoncontrols.com,George R. Oliver,Producer Manufacturing
+20,20,JPM,JPMorgan Chase & Co.,New York Stock Exchange,Major Banks,http://www.jpmorganchase.com,James Dimon,Finance
+21,21,JNPR,"Juniper Networks, Inc.",New York Stock Exchange,Information Technology Services,http://www.juniper.net,Rami Rahim,Technology Services
+22,22,KSU,Kansas City Southern,New York Stock Exchange,Railroads,http://www.kcsouthern.com,Patrick J. Ottensmeyer,Transportation
+23,23,K,Kellogg Co.,New York Stock Exchange,Food: Major Diversified,http://www.kelloggcompany.com,Steven A. Cahillane,Consumer Non-Durables
+24,24,KEY,KeyCorp,New York Stock Exchange,Major Banks,http://www.key.com,Beth Elaine Mooney,Finance
+25,25,KEYS,"Keysight Technologies, Inc.",New York Stock Exchange,Electronic Equipment/Instruments,http://www.keysight.com,Ronald S. Nersesian,Electronic Technology
+26,26,KMB,Kimberly-Clark Corp.,New York Stock Exchange,Household/Personal Care,http://www.kimberly-clark.com,Michael D. Hsu,Consumer Non-Durables
+27,27,KIM,Kimco Realty Corp.,New York Stock Exchange,Real Estate Investment Trusts,http://www.kimcorealty.com,Conor C. Flynn,Finance
+28,28,KMI,"Kinder Morgan, Inc.",New York Stock Exchange,Oil & Gas Pipelines,http://www.kindermorgan.com,Steven J. Kean,Industrial Services
+29,29,KLAC,KLA Corp.,NASDAQ,Electronic Production Equipment,http://www.kla-tencor.com,Richard P. Wallace,Electronic Technology
+30,30,KSS,Kohl's Corp.,New York Stock Exchange,Department Stores,http://www.kohls.com,Michelle D. Gass,Retail Trade
+31,31,KHC,The Kraft Heinz Co.,NASDAQ,Food: Major Diversified,http://www.kraftheinzcompany.com,Miguel Patricio,Consumer Non-Durables
+32,32,KR,The Kroger Co.,New York Stock Exchange,Food Retail,http://www.kroger.com,W. Rodney McMullen,Retail Trade
+33,33,LB,"L Brands, Inc.",New York Stock Exchange,Apparel/Footwear Retail,http://www.lb.com,Leslie Herbert Wexner,Retail Trade
+34,34,LHX,"L3Harris Technologies, Inc.",New York Stock Exchange,Aerospace & Defense,http://www.l3harris.com,William M. Brown,Electronic Technology
+35,35,LH,Laboratory Corp. of America Holdings,New York Stock Exchange,Services to the Health Industry,http://www.labcorp.com,Adam H. Schechter,Health Services
+36,36,LRCX,Lam Research Corp.,NASDAQ,Electronic Production Equipment,http://www.lamresearch.com,Timothy M. Archer,Electronic Technology
+37,37,LW,"Lamb Weston Holdings, Inc.",New York Stock Exchange,Food: Specialty/Candy,http://www.lambweston.com,Thomas P. Werner,Consumer Non-Durables
+38,38,LVS,Las Vegas Sands Corp.,New York Stock Exchange,Casinos/Gaming,http://www.sands.com,Sheldon Gary Adelson,Consumer Services
+39,39,LEG,"Leggett & Platt, Inc.",New York Stock Exchange,Home Furnishings,http://www.leggett.com,Karl G. Glassman,Consumer Durables
+40,40,LDOS,"Leidos Holdings, Inc.",New York Stock Exchange,Information Technology Services,http://www.leidos.com,Roger A. Krone,Technology Services
+41,41,LEN,Lennar Corp.,New York Stock Exchange,Homebuilding,http://www.lennar.com,Richard Beckwitt,Consumer Durables
+42,42,LLY,Eli Lilly & Co.,New York Stock Exchange,Pharmaceuticals: Major,http://www.lilly.com,David A. Ricks,Health Technology
+43,43,LNC,Lincoln National Corp.,New York Stock Exchange,Life/Health Insurance,http://www.lfg.com,Dennis R. Glass,Finance
+44,44,LIN,Linde Plc,New York Stock Exchange,Chemicals: Specialty,http://www.lindeplc.com,Stephen F. Angel,Process Industries
+45,45,LYV,"Live Nation Entertainment, Inc.",New York Stock Exchange,Movies/Entertainment,http://www.livenationentertainment.com,Michael Rapino,Consumer Services
+46,46,LKQ,LKQ Corp.,NASDAQ,Automotive Aftermarket,http://www.lkqcorp.com,Dominick Paul Zarcone,Consumer Durables
+47,47,LMT,Lockheed Martin Corp.,New York Stock Exchange,Aerospace & Defense,http://www.lockheedmartin.com,Marillyn A. Hewson,Electronic Technology
+48,48,L,Loews Corp.,New York Stock Exchange,Property/Casualty Insurance,http://www.loews.com,James S. Tisch,Finance
+49,49,LOW,"Lowe's Cos., Inc.",New York Stock Exchange,Home Improvement Chains,http://www.lowes.com,Marvin R. Ellison,Retail Trade
+50,50,LYB,LyondellBasell Industries NV,New York Stock Exchange,Chemicals: Specialty,http://lyondellbasell.com,Bhavesh Vaghjibhai Patel,Process Industries
+51,51,MTB,M&T Bank Corp.,New York Stock Exchange,Regional Banks,http://www.mtb.com,René F. Jones,Finance
+52,52,M,"Macy's, Inc.",New York Stock Exchange,Department Stores,http://www.macysinc.com,Jeffrey Gennette,Retail Trade
+53,53,MRO,Marathon Oil Corp.,New York Stock Exchange,Oil & Gas Production,http://www.marathonoil.com,Lee M. Tillman,Energy Minerals
+54,54,MPC,Marathon Petroleum Corp.,New York Stock Exchange,Oil Refining/Marketing,http://www.marathonpetroleum.com,Michael J. Hennigan,Energy Minerals
+55,55,MKTX,"MarketAxess Holdings, Inc.",NASDAQ,Investment Banks/Brokers,http://www.marketaxess.com,Richard Mitchell McVey,Finance
+56,56,MAR,"Marriott International, Inc.",NASDAQ,Hotels/Resorts/Cruiselines,http://www.marriott.com,Arne M. Sorenson,Consumer Services
+57,57,MMC,"Marsh & McLennan Cos., Inc.",New York Stock Exchange,Insurance Brokers/Services,http://marsh.com,Daniel S. Glaser,Finance
+58,58,MLM,"Martin Marietta Materials, Inc.",New York Stock Exchange,Construction Materials,http://www.martinmarietta.com,C. Howard Nye,Non-Energy Minerals
+59,59,MAS,Masco Corp.,New York Stock Exchange,Building Products,http://www.masco.com,Keith J. Allman,Producer Manufacturing
+60,60,MA,"Mastercard, Inc.",New York Stock Exchange,Finance/Rental/Leasing,http://www.mastercard.com,Ajaypal S. Banga,Finance
+61,61,MKC,"McCormick & Co., Inc.",New York Stock Exchange,Food: Specialty/Candy,http://www.mccormickcorporation.com,Lawrence Erik Kurzius,Consumer Non-Durables
+62,62,MXIM,"Maxim Integrated Products, Inc.",NASDAQ,Semiconductors,http://www.maximintegrated.com,Tunç Doluca,Electronic Technology
+63,63,MCD,McDonald's Corp.,New York Stock Exchange,Restaurants,http://www.mcdonalds.com,Chris Kempczinski,Consumer Services
+64,64,MCK,McKesson Corp.,New York Stock Exchange,Medical Distributors,http://www.mckesson.com,Brian Scott Tyler,Distribution Services
+65,65,MDT,Medtronic Plc,New York Stock Exchange,Medical Specialties,http://www.medtronic.com,Omar S. Ishrak,Health Technology
+66,66,MRK,"Merck & Co., Inc.",New York Stock Exchange,Pharmaceuticals: Major,http://www.merck.com,Kenneth C. Frazier,Health Technology
+67,67,MET,"MetLife, Inc.",New York Stock Exchange,Life/Health Insurance,http://www.metlife.com,Michel A. Khalaf,Finance
+68,68,MTD,"Mettler-Toledo International, Inc.",New York Stock Exchange,Medical Specialties,http://www.us.mt.com,Olivier A. Filliol,Health Technology
+69,69,MGM,MGM Resorts International,New York Stock Exchange,Casinos/Gaming,http://www.mgmresorts.com,William Joseph Hornbuckle,Consumer Services
+70,70,MCHP,"Microchip Technology, Inc.",NASDAQ,Semiconductors,http://www.microchip.com,Steve Sanghi,Electronic Technology
+71,71,MU,"Micron Technology, Inc.",NASDAQ,Semiconductors,http://www.micron.com,Sanjay Mehrotra,Electronic Technology
+72,72,MSFT,Microsoft Corp.,NASDAQ,Packaged Software,http://www.microsoft.com,Satya Nadella,Technology Services
+73,73,MAA,"Mid-America Apartment Communities, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.maac.com,H. Eric Bolton,Finance
+74,74,MHK,"Mohawk Industries, Inc.",New York Stock Exchange,Home Furnishings,http://www.mohawkind.com,Jeffrey S. Lorberbaum,Consumer Durables
+75,75,TAP,Molson Coors Beverage Co.,New York Stock Exchange,Beverages: Alcoholic,http://www.molsoncoors.com,Gavin D. K. Hattersley,Consumer Non-Durables
+76,76,MDLZ,"Mondelez International, Inc.",NASDAQ,Food: Major Diversified,http://www.mondelezinternational.com,Dirk van de Put,Consumer Non-Durables
+77,77,MNST,Monster Beverage Corp.,NASDAQ,Beverages: Non-Alcoholic,http://www.monsterbevcorp.com,Rodney Cyril Sacks,Consumer Non-Durables
+78,78,MCO,Moody's Corp.,New York Stock Exchange,Financial Publishing/Services,http://www.moodys.com,Raymond W. McDaniel,Commercial Services
+79,79,MS,Morgan Stanley,New York Stock Exchange,Investment Banks/Brokers,http://www.morganstanley.com,James Patrick Gorman,Finance
+80,80,MOS,The Mosaic Co.,New York Stock Exchange,Chemicals: Agricultural,http://www.mosaicco.com,James Calvin O'Rourke,Process Industries
+81,81,MSI,"Motorola Solutions, Inc.",New York Stock Exchange,Aerospace & Defense,http://www.motorolasolutions.com,Gregory Q. Brown,Electronic Technology
+82,82,MSCI,"MSCI, Inc.",New York Stock Exchange,Investment Managers,http://www.msci.com,Henry A. Fernandez,Finance
+83,83,MYL,Mylan NV,NASDAQ,Pharmaceuticals: Generic,http://mylan.co.uk,Heather M. Bresch,Health Technology
+84,84,NDAQ,"Nasdaq, Inc.",NASDAQ,Investment Banks/Brokers,http://www.nasdaq.com,Adena T. Friedman,Finance
+85,85,NOV,"National Oilwell Varco, Inc.",New York Stock Exchange,Oilfield Services/Equipment,http://www.nov.com,Clay C. Williams,Industrial Services
+86,86,NTAP,"NetApp, Inc.",NASDAQ,Computer Peripherals,http://www.netapp.com,George Kurian,Electronic Technology
+87,87,NFLX,"Netflix, Inc.",NASDAQ,Cable/Satellite TV,http://www.netflix.com,Wilmot Reed Hastings,Consumer Services
+88,88,NWL,"Newell Brands, Inc.",NASDAQ,Industrial Conglomerates,http://www.newellbrands.com,Ravichandra K. Saligram,Producer Manufacturing
+89,89,NEM,Newmont Corp.,New York Stock Exchange,Precious Metals,http://www.newmont.com,Thomas R. Palmer,Non-Energy Minerals
+90,90,NWSA,News Corp.,NASDAQ,Publishing: Newspapers,http://www.newscorp.com,Robert James Thomson,Consumer Services
+91,91,NWS,News Corp.,NASDAQ,Publishing: Newspapers,http://www.newscorp.com,Robert James Thomson,Consumer Services
+92,92,NEE,"NextEra Energy, Inc.",New York Stock Exchange,Electric Utilities,http://www.nexteraenergy.com,James L. Robo,Utilities
+93,93,NLSN,Nielsen Holdings Plc,New York Stock Exchange,Advertising/Marketing Services,http://nielsen.com,David W. Kenny,Commercial Services
+94,94,NKE,"NIKE, Inc.",New York Stock Exchange,Apparel/Footwear,http://www.nike.com,John J. Donahoe,Consumer Non-Durables
+95,95,NI,"NiSource, Inc.",New York Stock Exchange,Gas Distributors,http://www.nisource.com,Joseph J. Hamrock,Utilities
+96,96,NBL,"Noble Energy, Inc.",NASDAQ,Oil & Gas Production,http://www.nblenergy.com,David L. Stover,Energy Minerals
+97,97,JWN,"Nordstrom, Inc.",New York Stock Exchange,Apparel/Footwear Retail,http://www.nordstrom.com,Erik B. Nordstrom,Retail Trade
+98,98,NSC,Norfolk Southern Corp.,New York Stock Exchange,Railroads,http://www.nscorp.com,James A. Squires,Transportation
+99,99,NTRS,Northern Trust Corp.,NASDAQ,Regional Banks,http://www.northerntrust.com,Michael G. O'Grady,Finance
+0,0,NOC,Northrop Grumman Corp.,New York Stock Exchange,Aerospace & Defense,http://www.northropgrumman.com,Kathy J. Warden,Electronic Technology
+1,1,NLOK,"NortonLifeLock, Inc.",NASDAQ,Packaged Software,http://www.symantec.com,Vincent Pilette,Technology Services
+2,2,NCLH,Norwegian Cruise Line Holdings Ltd.,New York Stock Exchange,Hotels/Resorts/Cruiselines,http://www.nclhltd.com,Frank J. Del Rio,Consumer Services
+3,3,NRG,"NRG Energy, Inc.",New York Stock Exchange,Electric Utilities,http://www.nrg.com,Mauricio Gutierrez,Utilities
+4,4,NUE,Nucor Corp.,New York Stock Exchange,Steel,http://www.nucor.com,Leon J. Topalian,Non-Energy Minerals
+5,5,NVDA,NVIDIA Corp.,NASDAQ,Semiconductors,http://www.nvidia.com,Jen-Hsun Huang,Electronic Technology
+6,6,NVR,"NVR, Inc.",New York Stock Exchange,Homebuilding,http://www.nvrinc.com,Paul C. Saville,Consumer Durables
+7,7,ORLY,"O'Reilly Automotive, Inc.",NASDAQ,Specialty Stores,http://www.oreillyauto.com,Gregory D. Johnson,Retail Trade
+8,8,OXY,Occidental Petroleum Corp.,New York Stock Exchange,Oil & Gas Production,http://www.oxy.com,Vicki A. Hollub,Energy Minerals
+9,9,ODFL,"Old Dominion Freight Line, Inc.",NASDAQ,Trucking,http://www.odfl.com,Greg C. Gantt,Transportation
+10,10,OMC,"Omnicom Group, Inc.",New York Stock Exchange,Advertising/Marketing Services,http://www.omnicomgroup.com,John D. Wren,Commercial Services
+11,11,OKE,"ONEOK, Inc.",New York Stock Exchange,Oil & Gas Pipelines,http://www.oneok.com,Terry K. Spencer,Industrial Services
+12,12,ORCL,Oracle Corp.,New York Stock Exchange,Packaged Software,http://www.oracle.com,Safra Ada Catz,Technology Services
+13,13,PCAR,"PACCAR, Inc.",NASDAQ,Trucks/Construction/Farm Machinery,http://www.paccar.com,Preston R. Feight,Producer Manufacturing
+14,14,PKG,Packaging Corporation of America,New York Stock Exchange,Containers/Packaging,http://www.packagingcorp.com,Mark W. Kowlzan,Process Industries
+15,15,PH,Parker-Hannifin Corp.,New York Stock Exchange,Industrial Machinery,http://www.parker.com,Thomas L. Williams,Producer Manufacturing
+16,16,PAYX,"Paychex, Inc.",NASDAQ,Data Processing Services,http://www.paychex.com,Martin Mucci,Technology Services
+17,17,PAYC,"Paycom Software, Inc.",New York Stock Exchange,Packaged Software,http://www.paycom.com,Chad R. Richison,Technology Services
+18,18,PYPL,"PayPal Holdings, Inc.",NASDAQ,Data Processing Services,http://www.paypal.com,Daniel H. Schulman,Technology Services
+19,19,PNR,Pentair Plc,New York Stock Exchange,Miscellaneous Manufacturing,http://pentair.com,John L. Stauch,Producer Manufacturing
+20,20,PBCT,"People's United Financial, Inc.",NASDAQ,Major Banks,http://www.peoples.com,John P. Barnes,Finance
+21,21,PEP,"PepsiCo, Inc.",NASDAQ,Beverages: Non-Alcoholic,http://www.pepsico.com,Ramon Luis Laguarta,Consumer Non-Durables
+22,22,PKI,"PerkinElmer, Inc. (United States)",New York Stock Exchange,Medical Specialties,http://www.perkinelmer.com,Prahlad Ramadhar Singh,Health Technology
+23,23,PRGO,Perrigo Co. Plc,New York Stock Exchange,Pharmaceuticals: Other,http://www.perrigo.com,Murray S. Kessler,Health Technology
+24,24,PFE,Pfizer Inc.,New York Stock Exchange,Pharmaceuticals: Major,http://www.pfizer.com,Albert Bourla,Health Technology
+25,25,PM,"Philip Morris International, Inc.",New York Stock Exchange,Tobacco,http://www.pmi.com,André Calantzopoulos,Consumer Non-Durables
+26,26,PSX,Phillips 66,New York Stock Exchange,Oil Refining/Marketing,http://www.phillips66.com,Greg C. Garland,Energy Minerals
+27,27,PNW,Pinnacle West Capital Corp.,New York Stock Exchange,Electric Utilities,http://www.pinnaclewest.com,Jeffrey B. Guldner,Utilities
+28,28,PXD,Pioneer Natural Resources Co.,New York Stock Exchange,Oil & Gas Production,http://www.pxd.com,Scott Douglas Sheffield,Energy Minerals
+29,29,PNC,"The PNC Financial Services Group, Inc.",New York Stock Exchange,Major Banks,http://www.pnc.com,William Stanton Demchak,Finance
+30,30,PPG,"PPG Industries, Inc.",New York Stock Exchange,Industrial Specialties,http://www.ppg.com,Michael H. McGarry,Process Industries
+31,31,PPL,PPL Corp.,New York Stock Exchange,Electric Utilities,http://www.pplweb.com,William Harold Spence,Utilities
+32,32,PFG,"Principal Financial Group, Inc.",NASDAQ,Investment Managers,http://www.principal.com,Daniel Joseph Houston,Finance
+33,33,PG,Procter & Gamble Co.,New York Stock Exchange,Household/Personal Care,http://www.pg.com,David S. Taylor,Consumer Non-Durables
+34,34,PGR,Progressive Corp.,New York Stock Exchange,Property/Casualty Insurance,http://www.progressive.com,Susan Patricia Griffith,Finance
+35,35,PLD,"Prologis, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.prologis.com,Hamid R. Moghadam,Finance
+36,36,PRU,"Prudential Financial, Inc.",New York Stock Exchange,Financial Conglomerates,http://www.prudential.com,Charlie F. Lowrey,Finance
+37,37,PEG,"Public Service Enterprise Group, Inc.",New York Stock Exchange,Electric Utilities,http://www.pseg.com,Ralph Izzo,Utilities
+38,38,PSA,Public Storage,New York Stock Exchange,Real Estate Investment Trusts,http://www.publicstorage.com,Joseph D. Russell,Finance
+39,39,PHM,"PulteGroup, Inc.",New York Stock Exchange,Homebuilding,http://www.pultegroupinc.com,Ryan R. Marshall,Consumer Durables
+40,40,PVH,PVH Corp.,New York Stock Exchange,Apparel/Footwear,http://www.pvh.com,Emanuel Chirico,Consumer Non-Durables
+41,41,QRVO,"Qorvo, Inc.",NASDAQ,Semiconductors,http://www.qorvo.com,Robert A. Bruggeworth,Electronic Technology
+42,42,PWR,"Quanta Services, Inc.",New York Stock Exchange,Engineering & Construction,http://www.quantaservices.com,Earl C. Austin,Industrial Services
+43,43,QCOM,"QUALCOMM, Inc.",NASDAQ,Telecommunications Equipment,http://www.qualcomm.com,Steven M. Mollenkopf,Electronic Technology
+44,44,DGX,"Quest Diagnostics, Inc.",New York Stock Exchange,Services to the Health Industry,http://www.questdiagnostics.com,Stephen H. Rusckowski,Health Services
+45,45,RL,Ralph Lauren Corp.,New York Stock Exchange,Apparel/Footwear Retail,http://www.ralphlauren.com,Patrice Jean Louis Louvet,Retail Trade
+46,46,RJF,"Raymond James Financial, Inc.",New York Stock Exchange,Investment Banks/Brokers,http://www.raymondjames.com,Paul C. Reilly,Finance
+47,47,RTX,Raytheon Technologies Corp.,New York Stock Exchange,Aerospace & Defense,http://www.rtx.com,,Electronic Technology
+48,48,O,Realty Income Corp.,New York Stock Exchange,Real Estate Investment Trusts,http://www.realtyincome.com,Sumit Roy,Finance
+49,49,REG,Regency Centers Corp.,NASDAQ,Real Estate Investment Trusts,http://www.regencycenters.com,Lisa Palmer,Finance
+50,50,REGN,"Regeneron Pharmaceuticals, Inc.",NASDAQ,Biotechnology,http://www.regeneron.com,Leonard S. Schleifer,Health Technology
+51,51,RF,Regions Financial Corp.,New York Stock Exchange,Major Banks,http://www.regions.com,John M. Turner,Finance
+52,52,RSG,"Republic Services, Inc.",New York Stock Exchange,Environmental Services,http://www.republicservices.com,Donald W. Slager,Industrial Services
+53,53,RMD,"ResMed, Inc.",New York Stock Exchange,Medical Specialties,http://www.resmed.com,Michael J. Farrell,Health Technology
+54,54,RHI,"Robert Half International, Inc.",New York Stock Exchange,Personnel Services,http://www.roberthalf.com,Michael Keith Waddell,Commercial Services
+55,55,ROK,"Rockwell Automation, Inc.",New York Stock Exchange,Electrical Products,http://www.rockwellautomation.com,Blake D. Moret,Producer Manufacturing
+56,56,ROL,"Rollins, Inc.",New York Stock Exchange,Other Consumer Services,http://www.rollins.com,Gary W. Rollins,Consumer Services
+57,57,ROP,"Roper Technologies, Inc.",New York Stock Exchange,Electronic Equipment/Instruments,http://www.ropertech.com,Laurence Neil Hunn,Electronic Technology
+58,58,ROST,"Ross Stores, Inc.",NASDAQ,Apparel/Footwear Retail,http://www.rossstores.com,Barbara Rentler,Retail Trade
+59,59,RCL,Royal Caribbean Cruises Ltd.,New York Stock Exchange,Hotels/Resorts/Cruiselines,http://www.rclcorporate.com,Richard D. Fain,Consumer Services
+60,60,SPGI,"S&P Global, Inc.",New York Stock Exchange,Financial Publishing/Services,http://www.spglobal.com,Douglas L. Peterson,Commercial Services
+61,61,CRM,"salesforce.com, inc.",New York Stock Exchange,Packaged Software,http://www.salesforce.com,Marc Russell Benioff,Technology Services
+62,62,SBAC,SBA Communications Corp.,NASDAQ,Real Estate Investment Trusts,http://www.sbasite.com,Jeffrey A. Stoops,Finance
+63,63,SLB,Schlumberger NV,New York Stock Exchange,Oilfield Services/Equipment,http://www.slb.com,Olivier Le Peuch,Industrial Services
+64,64,STX,Seagate Technology Plc,NASDAQ,Computer Peripherals,http://www.seagate.com,William David Mosley,Electronic Technology
+65,65,SEE,Sealed Air Corp.,New York Stock Exchange,Containers/Packaging,http://www.sealedair.com,Edward L. Doheny,Process Industries
+66,66,SRE,Sempra Energy,New York Stock Exchange,Gas Distributors,http://www.sempra.com,Jeffrey Walker Martin,Utilities
+67,67,NOW,"ServiceNow, Inc.",New York Stock Exchange,Information Technology Services,http://www.servicenow.com,William R. McDermott,Technology Services
+68,68,SHW,The Sherwin-Williams Co.,New York Stock Exchange,Industrial Specialties,http://www.sherwin-williams.com,John George Morikis,Process Industries
+69,69,SPG,"Simon Property Group, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.simon.com,David E. Simon,Finance
+70,70,SWKS,"Skyworks Solutions, Inc.",NASDAQ,Semiconductors,http://www.skyworksinc.com,Liam K. Griffin,Electronic Technology
+71,71,SLG,SL Green Realty Corp.,New York Stock Exchange,Real Estate Investment Trusts,http://www.slgreen.com,Marc Holliday,Finance
+72,72,SNA,"Snap-On, Inc.",New York Stock Exchange,Tools & Hardware,http://www.snapon.com,Nicholas T. Pinchuk,Consumer Durables
+73,73,SO,The Southern Co.,New York Stock Exchange,Electric Utilities,http://www.southerncompany.com,Thomas A. Fanning,Utilities
+74,74,LUV,Southwest Airlines Co.,New York Stock Exchange,Airlines,http://www.southwest.com,Gary C. Kelly,Transportation
+75,75,SWK,"Stanley Black & Decker, Inc.",New York Stock Exchange,Tools & Hardware,http://www.stanleyblackanddecker.com,James M. Loree,Consumer Durables
+76,76,SBUX,Starbucks Corp.,NASDAQ,Restaurants,http://www.starbucks.com,Kevin R. Johnson,Consumer Services
+77,77,STT,State Street Corp.,New York Stock Exchange,Regional Banks,http://www.statestreet.com,Ronald Philip O'Hanley,Finance
+78,78,STE,STERIS Plc (Ireland),New York Stock Exchange,Medical Specialties,http://www.steris.com,Walter M. Rosebrough,Health Technology
+79,79,SYK,Stryker Corp.,New York Stock Exchange,Medical Specialties,http://www.stryker.com,Kevin A. Lobo,Health Technology
+80,80,SIVB,SVB Financial Group,NASDAQ,Regional Banks,http://www.svb.com,Gregory W. Becker,Finance
+81,81,SYF,Synchrony Financial,New York Stock Exchange,Finance/Rental/Leasing,http://www.synchrony.com,Margaret M. Keane,Finance
+82,82,SNPS,"Synopsys, Inc.",NASDAQ,Packaged Software,http://www.synopsys.com,Aart J. de Geus / Chi-Foon Chan,Technology Services
+83,83,SYY,Sysco Corp.,New York Stock Exchange,Food Distributors,http://www.sysco.com,Kevin Hourican,Distribution Services
+84,84,TMUS,"T-Mobile US, Inc.",NASDAQ,Wireless Telecommunications,http://www.t-mobile.com,G. Michael Sievert,Communications
+85,85,TROW,"T. Rowe Price Group, Inc.",NASDAQ,Investment Managers,http://www.troweprice.com,William Joseph Stromberg,Finance
+86,86,TTWO,"Take-Two Interactive Software, Inc.",NASDAQ,Recreational Products,http://www.take2games.com,Strauss H. Zelnick,Consumer Durables
+87,87,TPR,"Tapestry, Inc.",New York Stock Exchange,Apparel/Footwear Retail,http://www.tapestry.com,Olajide James Zeitlin,Retail Trade
+88,88,TGT,Target Corp.,New York Stock Exchange,Specialty Stores,http://www.target.com,Brian C. Cornell,Retail Trade
+89,89,TEL,TE Connectivity Ltd.,New York Stock Exchange,Electronic Components,http://www.teconnectivity.com,Terrence R. Curtin,Electronic Technology
+90,90,FTI,TechnipFMC Plc,New York Stock Exchange,Oilfield Services/Equipment,http://technipfmc.com,Douglas J. Pferdehirt,Industrial Services
+91,91,TFX,"Teleflex, Inc.",New York Stock Exchange,Medical Specialties,http://www.teleflex.com,Liam J. Kelly,Health Technology
+92,92,TXN,Texas Instruments Incorporated,NASDAQ,Semiconductors,http://www.ti.com,Richard K. Templeton,Electronic Technology
+93,93,TXT,"Textron, Inc.",New York Stock Exchange,Aerospace & Defense,http://www.textron.com,Scott C. Donnelly,Electronic Technology
+94,94,TMO,"Thermo Fisher Scientific, Inc.",New York Stock Exchange,Medical Specialties,http://www.thermofisher.com,Marc N. Casper,Health Technology
+95,95,TIF,Tiffany & Co.,New York Stock Exchange,Specialty Stores,http://www.tiffany.com,Alessandro Bogliolo,Retail Trade
+96,96,TJX,"The TJX Cos., Inc.",New York Stock Exchange,Apparel/Footwear Retail,http://www.tjx.com,Ernie L. Herrman,Retail Trade
+97,97,TSCO,Tractor Supply Co.,NASDAQ,Specialty Stores,http://www.tractorsupply.com,Gregory A. Sandfort / Harry A. Lawton,Retail Trade
+98,98,TT,Trane Technologies Plc,New York Stock Exchange,Industrial Conglomerates,http://www.tranetechnologies.com,Michael W. Lamach,Producer Manufacturing
+99,99,TDG,"TransDigm Group, Inc.",New York Stock Exchange,Aerospace & Defense,http://www.transdigm.com,Kevin M. Stein,Electronic Technology
+0,0,TRV,"The Travelers Cos., Inc.",New York Stock Exchange,Multi-Line Insurance,http://www.travelers.com,Alan D. Schnitzer,Finance
+1,1,TFC,Truist Financial Corp.,New York Stock Exchange,Regional Banks,http://www.thepremierfinancialinstitution.com,Kelly S. King,Finance
+2,2,TWTR,"Twitter, Inc.",New York Stock Exchange,Internet Software/Services,http://www.twitter.com,Jack Dorsey,Technology Services
+3,3,TSN,"Tyson Foods, Inc.",New York Stock Exchange,Food: Meat/Fish/Dairy,http://www.tysonfoods.com,Noel W. White,Consumer Non-Durables
+4,4,UDR,"UDR, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.udr.com,Thomas W. Toomey,Finance
+5,5,ULTA,"Ulta Beauty, Inc.",NASDAQ,Specialty Stores,http://www.ulta.com,Mary N. Dillon,Retail Trade
+6,6,USB,U.S. Bancorp,New York Stock Exchange,Major Banks,http://www.usbank.com,Andrew J. Cecere,Finance
+7,7,UAA,"Under Armour, Inc.",New York Stock Exchange,Apparel/Footwear,http://www.underarmour.com,Patrik Frisk,Consumer Non-Durables
+8,8,UA,"Under Armour, Inc.",New York Stock Exchange,Apparel/Footwear,http://www.underarmour.com,Patrik Frisk,Consumer Non-Durables
+9,9,UNP,Union Pacific Corp.,New York Stock Exchange,Railroads,http://www.up.com,Lance M. Fritz,Transportation
+10,10,UAL,"United Airlines Holdings, Inc.",NASDAQ,Airlines,http://www.unitedcontinentalholdings.com,Oscar Munoz,Transportation
+11,11,UNH,"UnitedHealth Group, Inc.",New York Stock Exchange,Managed Health Care,http://www.unitedhealthgroup.com,David Scott Wichmann,Health Services
+12,12,UPS,"United Parcel Service, Inc.",New York Stock Exchange,Air Freight/Couriers,http://www.ups.com,David P. Abney,Transportation
+13,13,URI,"United Rentals, Inc.",New York Stock Exchange,Finance/Rental/Leasing,http://www.unitedrentals.com,Matthew John Flannery,Finance
+14,14,UHS,"Universal Health Services, Inc.",New York Stock Exchange,Hospital/Nursing Management,http://www.uhsinc.com,Alan B. Miller,Health Services
+15,15,UNM,Unum Group,New York Stock Exchange,Life/Health Insurance,http://unum.co.uk,Richard Paul McKenney,Finance
+16,16,VFC,VF Corp.,New York Stock Exchange,Apparel/Footwear,http://www.vfc.com,Steven E. Rendle,Consumer Non-Durables
+17,17,VLO,Valero Energy Corp.,New York Stock Exchange,Oil Refining/Marketing,http://www.valero.com,Joseph W. Gorder,Energy Minerals
+18,18,VAR,"Varian Medical Systems, Inc.",New York Stock Exchange,Medical Specialties,http://www.varian.com,Dow R. Wilson,Health Technology
+19,19,VTR,"Ventas, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.ventasreit.com,Debra A. Cafaro,Finance
+20,20,VRSN,"VeriSign, Inc.",NASDAQ,Internet Software/Services,http://www.verisigninc.com,D. James Bidzos,Technology Services
+21,21,VRSK,"Verisk Analytics, Inc.",NASDAQ,Insurance Brokers/Services,http://www.verisk.com,Scott G. Stephenson,Finance
+22,22,VZ,"Verizon Communications, Inc.",New York Stock Exchange,Major Telecommunications,http://www.verizon.com,Hans Erik Vestberg,Communications
+23,23,VRTX,"Vertex Pharmaceuticals, Inc.",NASDAQ,Biotechnology,http://www.vrtx.com,Reshma Kewalramani,Health Technology
+24,24,VIAC,"ViacomCBS, Inc.",NASDAQ,Broadcasting,http://www.viacbs.com,Robert Marc Bakish,Consumer Services
+25,25,V,"Visa, Inc.",New York Stock Exchange,Finance/Rental/Leasing,http://usa.visa.com,Alfred F. Kelly,Finance
+26,26,VNO,Vornado Realty Trust,New York Stock Exchange,Real Estate Investment Trusts,http://www.vno.com,Steven Roth,Finance
+27,27,VMC,Vulcan Materials Co.,New York Stock Exchange,Construction Materials,http://www.vulcanmaterials.com,J. Thomas Hill,Non-Energy Minerals
+28,28,WRB,W.R. Berkley Corp.,New York Stock Exchange,Property/Casualty Insurance,http://www.wrberkley.com,William Robert Berkley,Finance
+29,29,WAB,Westinghouse Air Brake Technologies Corp.,New York Stock Exchange,Trucks/Construction/Farm Machinery,http://www.wabtec.com,Rafael O. Santana,Producer Manufacturing
+30,30,WMT,"Walmart, Inc.",New York Stock Exchange,Food Retail,http://corporate.walmart.com,C. Douglas McMillon,Retail Trade
+31,31,WBA,"Walgreens Boots Alliance, Inc.",NASDAQ,Drugstore Chains,http://www.walgreensbootsalliance.com,Stefano Pessina,Retail Trade
+32,32,DIS,The Walt Disney Co.,New York Stock Exchange,Media Conglomerates,http://www.thewaltdisneycompany.com,Robert Chapek,Consumer Services
+33,33,WM,"Waste Management, Inc.",New York Stock Exchange,Environmental Services,http://www.wm.com,James C. Fish,Industrial Services
+34,34,WAT,Waters Corp.,New York Stock Exchange,Medical Specialties,http://www.waters.com,Christopher James O'Connell,Health Technology
+35,35,WEC,"WEC Energy Group, Inc.",New York Stock Exchange,Electric Utilities,http://www.wecenergygroup.com,Joseph Kevin Fletcher,Utilities
+36,36,WFC,Wells Fargo & Co.,New York Stock Exchange,Major Banks,http://www.wellsfargo.com,Charles William Scharf,Finance
+37,37,WELL,"Welltower, Inc.",New York Stock Exchange,Real Estate Investment Trusts,http://www.welltower.com,Thomas J. DeRosa,Finance
+38,38,WDC,Western Digital Corp.,NASDAQ,Computer Peripherals,http://www.wdc.com,David V. Goeckeler,Electronic Technology
+39,39,WU,The Western Union Co.,New York Stock Exchange,Finance/Rental/Leasing,http://www.westernunion.com,Hikmet Ersek,Finance
+40,40,WRK,WestRock Co.,New York Stock Exchange,Containers/Packaging,http://www.westrock.com,Steven C. Voorhees,Process Industries
+41,41,WY,Weyerhaeuser Co.,New York Stock Exchange,Real Estate Investment Trusts,http://www.weyerhaeuser.com,Devin W. Stockfish,Finance
+42,42,WHR,Whirlpool Corp.,New York Stock Exchange,Electronics/Appliances,http://www.whirlpoolcorp.com,Marc Robert Bitzer,Consumer Durables
+43,43,WMB,"The Williams Cos., Inc.",New York Stock Exchange,Oil & Gas Pipelines,http://co.williams.com,Alan S. Armstrong,Industrial Services
+44,44,WLTW,Willis Towers Watson Plc,NASDAQ,Insurance Brokers/Services,http://www.willistowerswatson.com,John J. Haley,Finance
+45,45,WYNN,Wynn Resorts Ltd.,NASDAQ,Casinos/Gaming,http://www.wynnresorts.com,Matthew O. Maddox,Consumer Services
+46,46,XEL,"Xcel Energy, Inc.",NASDAQ,Electric Utilities,http://www.xcelenergy.com,Benjamin G. S. Fowke,Utilities
+47,47,XRX,Xerox Holdings Corp.,New York Stock Exchange,Computer Peripherals,http://www.xerox.com,John Visentin,Electronic Technology
+48,48,XLNX,"Xilinx, Inc.",NASDAQ,Semiconductors,http://www.xilinx.com,Victor Peng,Electronic Technology
+49,49,XYL,"Xylem, Inc.",New York Stock Exchange,Industrial Machinery,http://www.xyleminc.com,Patrick K. Decker,Producer Manufacturing
+50,50,YUM,"Yum! Brands, Inc.",New York Stock Exchange,Restaurants,http://www.yum.com,David W. Gibbs,Consumer Services
+51,51,ZBRA,Zebra Technologies Corp.,NASDAQ,Computer Peripherals,http://www.zebra.com,Anders Gustafsson,Electronic Technology
+52,52,ZBH,"Zimmer Biomet Holdings, Inc.",New York Stock Exchange,Medical Specialties,http://www.zimmerbiomet.com,Bryan C. Hanson,Health Technology
+53,53,ZION,Zions Bancorporation NA,NASDAQ,Regional Banks,http://www.zionsbancorporation.com,Harris H. Simmons,Finance
+54,54,ZTS,"Zoetis, Inc.",New York Stock Exchange,Pharmaceuticals: Generic,http://www.zoetis.com,Kristin C. Peck,Health Technology
